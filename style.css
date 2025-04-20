@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap');
+
+@import url('./styles/cabecalho.css');
+
+@import url('./styles/sobre-nos.css');
+
+@import url('./styles/feitos.css');
+
+@import url('./styles/vagas.css');
+
+@import url('./styles/vagas-descricao.css');
+
+@import url('./styles/colaboradores.css');
+
+@import url('./styles/cadastro.css');
+
+@import url('./styles/rodape.css');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+:root {
+    --cinza: #667085;
+    --cinza-claro: #F9F4F4;
+    --vermelho: #8E2424;
+    --azul-escuro: #101828;
+    --branco: #FFFFFF;
+    --font-principal: "Inter", sans-serif;
+}
+
+body {
+    background-color: var(--branco);
+    font-family: var(--font-principal);
+    font-size: 1em;
+    overflow-x: hidden;
+}
+

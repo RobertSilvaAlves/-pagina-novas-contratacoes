@@ -1,0 +1,32 @@
+.feitos {
+    display: flex;
+    padding: 0 80px 96px 80px;
+    justify-content: center;
+}
+
+.feitos__container {
+    margin: 1.5em;
+}
+
+.feitos__lista {
+    list-style: none;
+}
+
+.feitos__lista-numero {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.feitos__lista-titulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--azul-escuro);
+    padding: 1em 0;
+}
+
+.feitos__lista-texto {
+    font-size: 1em;
+    font-weight: 400;
+    color: var(--cinza);
+}

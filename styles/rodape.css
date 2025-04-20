@@ -1,0 +1,22 @@
+footer{
+    display: flex;
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.877);
+    color: var(--branco);
+    padding: 1em;
+    justify-content: center;
+}
+
+footer > div{
+    display: flex;
+}
+
+p > strong > a{
+    text-decoration: none;
+    color: yellow;
+    
+}
+
+p > strong > a:hover{
+    color: #3636fdd0;
+}

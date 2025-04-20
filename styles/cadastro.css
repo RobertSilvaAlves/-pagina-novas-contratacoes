@@ -1,0 +1,54 @@
+.cadastro {
+    background-color: var(--cinza-claro);
+}
+
+.cadastro__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 90px;
+}
+
+.cadastro__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--azul-escuro);
+}
+
+.cadastro__texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza);
+    padding: 1em;
+}
+
+.cadastro__email {
+    padding: 1em 0;
+}
+
+.cadastro__email-input {
+    padding: 1em;
+    width: 360px;
+    border-radius: 8px;
+}
+
+.cadastro__botao {
+    padding: 12px 24px;
+    border-radius: 8px;
+    background-color: var(--vermelho);
+    color: var(--branco);
+    font-size: 1em;
+    font-weight: 500;
+}
+
+.cadastro__texto2 {
+    font-size: 1em;
+    font-weight: 400;
+    color: var(--cinza);
+}
+
+.cadastro__botao:hover{
+    border: 2px solid rgb(66, 66, 66);
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
+    transition: 0.5s;
+}
