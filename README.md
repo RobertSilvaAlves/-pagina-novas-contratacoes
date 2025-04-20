@@ -7,6 +7,10 @@
 
 Projeto desenvolvido como parte do desafio **#7DaysOfCode** da **Alura**, com o objetivo de criar uma **landing page institucional** focada em novas contratações, utilizando **HTML5** e **CSS3**.
 
+---
+
+## 📸 Preview do Projeto
+
 ![127 0 0 1_5500_index html (1)](https://github.com/user-attachments/assets/7131599f-ad6a-43bb-ba12-e00ea3172342)
 
 
@@ -22,17 +26,6 @@ Este projeto simula a página oficial da empresa fictícia **OptimusTech**, com 
 ## 🔗 Acesse o Projeto Online
 
 👉 **[Visualizar Página Publicada](https://robertsilvaalves.github.io/-pagina-novas-contratacoes/)**
-
----
-
-## 📸 Preview do Projeto
-
-> 📷 *Adicione um print da página na pasta `/img` com o nome `preview.png` para que a imagem apareça abaixo.*
-
-```html
-<!-- Exemplo de imagem (comente ou remova se ainda não existir) -->
-<img src="img/preview.png" alt="Preview da página Novas Contratações" width="100%">
-```
 
 ---
 
