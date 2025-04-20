@@ -19,7 +19,7 @@ Projeto desenvolvido como parte do desafio **#7DaysOfCode** da **Alura**, com o 
 
 ## ✨ Sobre o Projeto
 
-Este projeto simula a página oficial da empresa fictícia **OptimusTech**, com o objetivo de apresentar sua missão, cultura e vagas disponíveis para contratação. O desafio propõe o desenvolvimento de um layout moderno e responsivo com base em um protótipo fornecido.
+Este projeto simula a página oficial da empresa fictícia **OptimusTech**, com o objetivo de apresentar sua missão, cultura e vagas disponíveis para contratação. O desafio propõe o desenvolvimento de um layout com base em um protótipo fornecido no Figma.
 
 ---
 
